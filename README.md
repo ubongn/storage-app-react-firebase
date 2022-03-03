@@ -1,4 +1,4 @@
-# Storage App React Firebase
+# Storage App with React Firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
